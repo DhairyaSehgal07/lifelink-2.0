@@ -1,5 +1,10 @@
+import HomeScreen from "./screens/HomeScreen";
 const App = () => {
-  return <div className="bg-black text-white">App</div>;
+  return (
+    <>
+      <HomeScreen />
+    </>
+  );
 };
 
 export default App;
