@@ -20,7 +20,7 @@ const Navbar = () => {
           Lifelink
         </div>
       </div>
-      <div className="flex md:mr-[2.5rem]">
+      <div className="flex md:mr-[2.5rem] lg:mr-[6rem]">
         <button className="bg-gray-300 md:mr-2 hover:bg-gray-400 text-gray-800 font-bold py-2 px-6 rounded-full border-2 border-gray-300 focus:outline-none focus:border-gray-500 focus:shadow-outline-gray active:bg-gray-500">
           Login
         </button>
